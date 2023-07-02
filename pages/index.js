@@ -19,6 +19,7 @@ export default function Home() {
           <p>
             Get started by editing&nbsp;
             <code className={styles.code}>pages/index.js</code>
+            how well does this work!
           </p>
           <div>
             <a
